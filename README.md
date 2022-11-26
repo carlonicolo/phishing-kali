@@ -16,6 +16,8 @@
 - Taking the ip of the machine: ``` ifconfig ```
 - URL of cloned website: http://www.facebook.com
 
+You should have a webpage very similar to the page where you login in facebook and that's it.
+
 ## Results
 
-![Alt text](./passwd.png "Attack")
+![Alt text](./passwd.png "Attack")  
