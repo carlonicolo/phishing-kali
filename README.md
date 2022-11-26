@@ -1,4 +1,4 @@
-# Phishing for exploiting facebook passwords
+# Phishing for exploiting facebook password
 
 ## Software
 
